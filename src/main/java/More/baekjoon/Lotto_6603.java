@@ -1,66 +1,54 @@
 package More.baekjoon;
 
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.List;
-import java.util.Set;
 
 public class Lotto_6603 {
-    public static void main(String[] args) {
-        int setSize;
-        StringBuffer pattern = new StringBuffer();
+    static int N;
+    static int[] arr;
+    static int[] result;
 
-        BufferedReader br = null;
-        br = new BufferedReader(new InputStreamReader(System.in));
+    public static void main(String[] args) throws Exception{
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-        try {
+        while(true){
+            String[] str = br.readLine().split(" ");
+            N = Integer.parseInt(str[0]);
+            arr = new int[N];
+            result = new int[N];
 
-            System.out.println("로또의 길이를 입력하시오 : ");
-            setSize = Integer.parseInt(br.readLine());
-               List<StringBuffer> list = new ArrayList<StringBuffer>();
-               List<StringBuffer> resultList = new ArrayList<StringBuffer>();
+            if(N == 0) break;
 
-                for (int i = 0; i < setSize; i++) {
-                    System.out.println("로또에 넣을 숫자를 입력하시오  : ");
-                 //   list.add(br.readLine());
-                }
-
-                /* 앞부분 */
-            for(int i = 0 ; i < 6; i++) {
-                //패턴을 초기화
-                pattern.append(list.get(i));
-
+            for (int i = 0; i < N; i++){
+                arr[i] = Integer.parseInt(str[i+1]);
             }
+            DFS(0,0);
+            System.out.println();
 
-            for(int h = 0; h < setSize ;h++){
-                resultList.add(pattern);
-                pattern.deleteCharAt(pattern.length() - h);
+        }
+
+    }
+
+    public static void DFS(int start, int depth){
+        if(depth == 6){
+            print();
+        }
+        for(int i=start; i<N; i++){
+            result[i] = 1;
+            DFS(i+1, depth+1);
+            result[i] = 0;
+        }
+
+    }
+
+    public static void print(){
+        for(int i=0; i<N; i++){
+            if(result[i] == 1){
+                System.out.println(arr[i] + " ");
             }
-
-
-
-            /* 뒷부분 */
-            for(int j = list.size(); ;j--){
-
-            }
-
-
-            resultList.add(pattern);
-
-
-
-
-
-
-
-
-
-
-            } catch (Exception ex){ex.printStackTrace();}
-
-
+            System.out.println();
+        }
     }
 
 
