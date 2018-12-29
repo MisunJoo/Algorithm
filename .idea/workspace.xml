@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a23837-23b2-4a03-9742-0f02ca39a8b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CSStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/More/baekjoon/PhoneNumber_5052.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DoIt/List/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DoIt/List/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -26,35 +26,37 @@
     <session id="326969270">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="19" />
-          <entry key="project.open.time.1" value="9" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.1" value="11" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="5" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="59" />
+          <entry key="BinTree" value="1" />
+          <entry key="java" value="63" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="59" />
+          <entry key="JAVA" value="63" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="9" />
-          <entry key="java" value="10197" />
+          <entry key="java" value="10471" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10197" />
+          <entry key="JAVA" value="10471" />
           <entry key="PLAIN_TEXT" value="9" />
         </counts>
       </usages-collector>
@@ -62,45 +64,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Sorting/ShellSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Queue/SearchString/BFmatch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/Lotto_6603.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Queue/IntAryQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/List/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,19 +73,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="12" column="27" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="27" />
+            <state relative-caret-position="96">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/PhoneNumber_5052.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CSStudy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
-                <element signature="e#416#417#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#547#548#0" expanded="true" />
-                <element signature="e#591#592#0" expanded="true" />
+                <element signature="e#219#227#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/Practice/chap10/BinTree_10_01.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree_10_01.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3936">
+              <caret line="174" column="90" selection-start-line="174" selection-start-column="90" selection-end-line="174" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -154,7 +144,7 @@
         <entry file="file://$USER_HOME$/Downloads/Practice/chap04/IntAryQueue_04_04.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="14" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+              <caret line="14" column="3" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="3" />
               <folding>
                 <element signature="e#1505#1506#0" expanded="true" />
                 <element signature="e#1519#1520#0" expanded="true" />
@@ -223,6 +213,9 @@
         <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/Lotto_6603.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoIt/List/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree_10_01.java" />
+        <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/PhoneNumber_5052.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CSStudy.java" />
       </list>
     </option>
   </component>
@@ -331,14 +324,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="DoIt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="More" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -354,15 +339,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541508988161" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546069439052" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -384,7 +369,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Lotto_6603">
+  <component name="RunManager" selected="Application.CSStudy">
+    <configuration name="CSStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CSStudy" />
+      <module name="Algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Exercise_Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoIt.Sorting.Exercise_Q17" />
       <module name="Algorithm" />
@@ -404,18 +396,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DoIt.Sorting.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HeapSortEx_06_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap06.HeapSortEx_06_17" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chap06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -451,18 +431,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.HeapSort" />
-      <item itemvalue="Application.HeapSortEx_06_17" />
       <item itemvalue="Application.Exercise_Q17" />
       <item itemvalue="Application.Parenthese" />
       <item itemvalue="Application.Lotto_6603" />
+      <item itemvalue="Application.CSStudy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CSStudy" />
         <item itemvalue="Application.Lotto_6603" />
         <item itemvalue="Application.Parenthese" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.Exercise_Q17" />
-        <item itemvalue="Application.HeapSortEx_06_17" />
       </list>
     </recent_temporary>
   </component>
@@ -495,17 +475,21 @@
       <workItem from="1540376022105" duration="1088000" />
       <workItem from="1540889274901" duration="327000" />
       <workItem from="1541341705701" duration="706000" />
+      <workItem from="1541508926530" duration="350000" />
+      <workItem from="1542109469553" duration="562000" />
+      <workItem from="1542166020320" duration="4000" />
+      <workItem from="1546068732091" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53488000" />
+    <option name="totallyTimeSpent" value="54933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22317597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -546,25 +530,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Queue/Queue_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Queue/Queue2.java" />
-    <entry file="file://$USER_HOME$/Downloads/Practice/chap04/IntStackX_04_03.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Stack/Stack_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Stack/IntStackTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/JAVA_LAB-master/Exercise/src/chapter4/Q1Switch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -813,10 +778,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/BinTree" />
     <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Queue/IntAryQueue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/List/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Practice/chap10/BinTree_10_01.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree_10_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3936">
+          <caret line="174" column="90" selection-start-line="174" selection-start-column="90" selection-end-line="174" selection-end-column="90" />
         </state>
       </provider>
     </entry>
@@ -840,7 +830,7 @@
     <entry file="file://$USER_HOME$/Downloads/Practice/chap04/IntAryQueue_04_04.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="14" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="5" />
+          <caret line="14" column="3" selection-start-line="5" selection-start-column="4" selection-end-line="14" selection-end-column="3" />
           <folding>
             <element signature="e#1505#1506#0" expanded="true" />
             <element signature="e#1519#1520#0" expanded="true" />
@@ -848,24 +838,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/List/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/PhoneNumber_5052.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/DoIt/Tree/BinTree.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CSStudy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="12" column="27" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="27" />
+        <state relative-caret-position="288">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
-            <element signature="e#416#417#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#219#227#0" expanded="true" />
           </folding>
         </state>
       </provider>
