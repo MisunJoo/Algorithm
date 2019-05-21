@@ -2,7 +2,7 @@ package More.Programers;
 
 import java.util.Arrays;
 
-public class SortK {
+public class Sort_K {
 
   public static void main(String[] args) throws Exception {
     int[] array = {1, 5, 2, 6, 3, 7, 4};

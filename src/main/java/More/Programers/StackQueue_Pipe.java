@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
-public class StackQueuePipe  {
+public class StackQueue_Pipe {
   public static void main(String[] args) throws Exception {
     BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
     System.out.println(solution(bf.readLine()));
