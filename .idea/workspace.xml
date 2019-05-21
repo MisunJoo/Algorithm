@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a23837-23b2-4a03-9742-0f02ca39a8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/More/Programers/Sort_BiggestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/More/Programers/SortK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/More/Programers/Sort_K.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/More/Programers/StackQueuePipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/More/Programers/StackQueue_Pipe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/SortK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/More/Programers/SortK.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/SortBiggestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/SortK.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,12 +54,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="19959" />
+          <entry key="java" value="20367" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19959" />
+          <entry key="JAVA" value="20367" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -155,11 +152,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_BiggestNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+            <state relative-caret-position="275">
+              <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#644#652#0" expanded="true" />
@@ -168,11 +165,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+            <state relative-caret-position="294">
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -205,7 +202,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/DoIt/Queue/IntStack.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoIt/Queue/IntStackTester.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoIt/Queue/Queue2.java" />
         <option value="$PROJECT_DIR$/src/main/java/DoIt/Queue/Queue3.java" />
@@ -256,6 +252,7 @@
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/SortK.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/SortBiggestNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/Sort_BiggestNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java" />
       </list>
     </option>
   </component>
@@ -404,7 +401,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558407073926" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558409583567" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -426,7 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sort_BiggestNumber">
+  <component name="RunManager" selected="Application.Sort_HIndex">
     <configuration name="Hash_Marathon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="More.Programers.Hash_Marathon" />
       <module name="Algorithm" />
@@ -466,6 +463,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sort_HIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="More.Programers.Sort_HIndex" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="More.Programers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sort_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="More.Programers.Sort_K" />
       <module name="Algorithm" />
@@ -479,33 +489,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSort_1181" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="More.baekjoon.WordSort_1181" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="More.baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.WordSort_1181" />
       <item itemvalue="Application.Hash_Marathon" />
       <item itemvalue="Application.Hash_PhoneBook" />
       <item itemvalue="Application.Sort_K" />
       <item itemvalue="Application.Sort_BiggestNumber" />
+      <item itemvalue="Application.Sort_HIndex" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort_HIndex" />
         <item itemvalue="Application.Sort_BiggestNumber" />
         <item itemvalue="Application.Sort_K" />
         <item itemvalue="Application.Hash_PhoneBook" />
         <item itemvalue="Application.Hash_Marathon" />
-        <item itemvalue="Application.WordSort_1181" />
       </list>
     </recent_temporary>
   </component>
@@ -551,17 +548,18 @@
       <workItem from="1556520466928" duration="9448000" />
       <workItem from="1557769055917" duration="5466000" />
       <workItem from="1557778750268" duration="7237000" />
-      <workItem from="1558349785825" duration="8684000" />
+      <workItem from="1558349785825" duration="10556000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107305000" />
+    <option name="totallyTimeSpent" value="109177000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="862" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11158799" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -570,8 +568,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32891247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2122016" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.18037136" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -579,7 +577,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.39655173" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -615,6 +613,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java</url>
+          <line>12</line>
+          <properties class="More.Programers.Sort_HIndex" method="solution">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -945,21 +951,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_BiggestNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        <state relative-caret-position="275">
+          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#644#652#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
