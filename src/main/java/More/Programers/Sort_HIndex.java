@@ -6,7 +6,6 @@ public class Sort_HIndex {
     int[] citations = {10, 50, 100};
     System.out.println(solution(citations));
   }
-
   public static int solution(int[] citations) {
     int answer = 0;
     int citeCount;
@@ -15,7 +14,6 @@ public class Sort_HIndex {
     if (citations.length == 1) {
       return answer = 1;
     }
-
     for (int i = 0; i <= citations.length; i++) {
       citeCount = 0;
       restCount = 0;
