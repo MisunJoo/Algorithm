@@ -11,7 +11,7 @@ import java.util.StringTokenizer;
       a[i] = new ArrayList<Integer>();
     }
 * */
-public class Cabbage {
+public class Cabbage_1012 {
   static int testCase;
   static int M;
   static int N;
