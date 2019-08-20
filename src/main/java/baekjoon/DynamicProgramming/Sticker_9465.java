@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.StringTokenizer;
 
+// 시간초과
 //2차원 배열의 경우, 그 index를 어디에 저장할 것인가?
 public class Sticker_9465 {
 
@@ -70,7 +71,6 @@ public class Sticker_9465 {
 
             if (newX >= 0 && newY >= 0 && newX < 2 && newY < n && arr[newX][newY] != -1) {
                 arr[newX][newY] = -1;
-//                sorted.remove((Integer) arr[newX][newY]);
             }
         }
     }
