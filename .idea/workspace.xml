@@ -2,40 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a23837-23b2-4a03-9742-0f02ca39a8b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Boost1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Boost2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Boost2$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Boost2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Baseball.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Carpet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/DiskController$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/DiskController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/BigNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/Camera$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/Camera.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/GymSuit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/Island.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/JoyStick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/LifeBoat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Greedy/Scale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Hash_Marathon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Hash_PhoneBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/MockExam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/RamyeonFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Scovile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Sort_BiggestNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Sort_HIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/Sort_K.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/StackQueueStockPrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/StackQueue_Pipe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/Programers/StackQueue_Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/baekjoon/BFS/DegreeOfKinshipOther.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/baekjoon/BFS/LabAnswer$Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/baekjoon/BFS/LabAnswer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/baekjoon/BFS/LottoOther.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/baekjoon/BFS/test$current.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/More/baekjoon/BFS/test.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Wine_2156.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swea/WorkOut_3431.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/More/CSStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/More/CSStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/Boost2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/Boost2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/five.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/four.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/one.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/three.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Test/July_2019/two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Test/July_2019/two.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,9 +41,10 @@
     <session id="326969270">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="49" />
+          <entry key="project.closed" value="51" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="14" />
-          <entry key="project.open.time.10" value="6" />
+          <entry key="project.open.time.10" value="7" />
           <entry key="project.open.time.11" value="5" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -73,21 +52,21 @@
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="7" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="49" />
+          <entry key="project.opened" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="BinTree" value="1" />
-          <entry key="java" value="146" />
+          <entry key="java" value="165" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="146" />
+          <entry key="JAVA" value="165" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -95,19 +74,128 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="java" value="49936" />
+          <entry key="java" value="54219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="49936" />
+          <entry key="JAVA" value="54219" />
           <entry key="PLAIN_TEXT" value="23" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_9465.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="19" column="31" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_dp_9465.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/SevenDwarf_2309.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Zoo_1309.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Wine_2156.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="431">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swea/WorkOut_3431.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/Stack/Parenthesis_9012.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="2899" column="23" selection-start-line="2899" selection-start-column="23" selection-end-line="2899" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -123,6 +211,7 @@
       <find>Integer.pa</find>
       <find>priorityQue</find>
       <find>queue</find>
+      <find>charArr</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -138,16 +227,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/HackDay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/WordCount_1152.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/WordSort_1181.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/Hash_Marathon.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/Hash_PhoneBook.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/StackQueuePipe.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/SortK.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/SortBiggestNumber.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/Sort_BiggestNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/StackQueue_Printer.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/Sort_HIndex.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/Queue.java" />
@@ -189,6 +268,16 @@
         <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/DFS/ListGraph.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/DFS/DfsAndBfs_list.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/DFS/Cabbage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/July_2019/two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Test/July_2019/two.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_9465.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_dp_9465.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/SevenDwarf_2309.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Zoo_1309.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Wine_2156.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swea/WorkOut_3431.java" />
+        <option value="$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java" />
       </list>
     </option>
   </component>
@@ -217,6 +306,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="686" />
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -266,6 +356,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -306,31 +398,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="More" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="More" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+              <item name="swea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563554697855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566671376876" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -342,6 +421,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/More" />
       <recent name="$PROJECT_DIR$/src/main/java/More/baekjoon/BFS" />
     </key>
   </component>
@@ -357,13 +437,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Cabbage">
-    <configuration name="Cabbage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="More.baekjoon.DFS.Cabbage" />
+  <component name="RunManager" selected="Application.Palindrome_1215">
+    <configuration name="Palindrome_1215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.Palindrome_1215" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="More.baekjoon.DFS.*" />
+          <option name="PATTERN" value="swea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,12 +451,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DfdAndBfs_1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="More.baekjoon.DFS.DfdAndBfs_1260" />
+    <configuration name="SevenDwarf_2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.BruteForce.SevenDwarf_2309" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="More.baekjoon.DFS.*" />
+          <option name="PATTERN" value="baekjoon.BruteForce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -384,12 +464,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DfsAndBfs_list" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="More.baekjoon.DFS.DfsAndBfs_list" />
+    <configuration name="Wine_2156" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.DynamicProgramming.Wine_2156" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="More.baekjoon.DFS.*" />
+          <option name="PATTERN" value="baekjoon.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -397,12 +477,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindRoute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="More.baekjoon.DFS.FindRoute" />
+    <configuration name="WorkOut_3431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="swea.WorkOut_3431" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="More.baekjoon.DFS.*" />
+          <option name="PATTERN" value="swea.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,12 +490,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="More.baekjoon.DFS.ListGraph" />
+    <configuration name="Zoo_1309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.DynamicProgramming.Zoo_1309" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="More.baekjoon.DFS.*" />
+          <option name="PATTERN" value="baekjoon.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,19 +504,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindRoute" />
-      <item itemvalue="Application.DfdAndBfs_1260" />
-      <item itemvalue="Application.ListGraph" />
-      <item itemvalue="Application.DfsAndBfs_list" />
-      <item itemvalue="Application.Cabbage" />
+      <item itemvalue="Application.SevenDwarf_2309" />
+      <item itemvalue="Application.Zoo_1309" />
+      <item itemvalue="Application.Wine_2156" />
+      <item itemvalue="Application.WorkOut_3431" />
+      <item itemvalue="Application.Palindrome_1215" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Cabbage" />
-        <item itemvalue="Application.DfsAndBfs_list" />
-        <item itemvalue="Application.ListGraph" />
-        <item itemvalue="Application.DfdAndBfs_1260" />
-        <item itemvalue="Application.FindRoute" />
+        <item itemvalue="Application.Palindrome_1215" />
+        <item itemvalue="Application.WorkOut_3431" />
+        <item itemvalue="Application.Wine_2156" />
+        <item itemvalue="Application.Zoo_1309" />
+        <item itemvalue="Application.SevenDwarf_2309" />
       </list>
     </recent_temporary>
   </component>
@@ -499,16 +579,20 @@
       <workItem from="1563259348135" duration="2904000" />
       <workItem from="1563381517327" duration="12722000" />
       <workItem from="1566222577784" duration="8000" />
+      <workItem from="1566222588225" duration="7512000" />
+      <workItem from="1566375823749" duration="2172000" />
+      <workItem from="1566650908541" duration="11860000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="234626000" />
+    <option name="totallyTimeSpent" value="256170000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="686" y="23" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.32891247" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -517,16 +601,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.009102731" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4746424" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.010403121" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38491547" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.57087123" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.16775033" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.31209362" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.30958232" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -551,7 +635,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_K.java</url>
           <line>13</line>
-          <properties class="More.Programers.Sort_K" method="solution">
+          <properties class="More.Programers.Sort_K">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
@@ -559,7 +643,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/More/Programers/Sort_BiggestNumber.java</url>
           <line>20</line>
-          <properties class="More.Programers.Sort_BiggestNumber" method="solution">
+          <properties class="More.Programers.Sort_BiggestNumber">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="3" />
@@ -567,7 +651,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/DegreeOfKinship.java</url>
           <line>20</line>
-          <properties class="More.baekjoon.BFS.DegreeOfKinship" method="dfs">
+          <properties class="More.baekjoon.BFS.DegreeOfKinship">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="185" />
@@ -575,7 +659,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/KKung.java</url>
           <line>42</line>
-          <properties class="More.baekjoon.BFS.KKung" method="moveWolf">
+          <properties class="More.baekjoon.BFS.KKung">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="241" />
@@ -583,10 +667,26 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/More/baekjoon/DFS/DfdAndBfs_1260.java</url>
           <line>57</line>
-          <properties class="More.baekjoon.DFS.DfdAndBfs_1260" method="bfs">
+          <properties class="More.baekjoon.DFS.DfdAndBfs_1260">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Zoo_1309.java</url>
+          <line>19</line>
+          <properties class="baekjoon.DynamicProgramming.Zoo_1309" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java</url>
+          <line>46</line>
+          <properties class="swea.Palindrome_1215" method="compare">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="283" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/More/Programers/RamyeonFactory.java</url>
@@ -871,31 +971,31 @@
           <option name="timeStamp" value="150" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/More/Boost1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="165" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/More/Boost1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/More/Boost1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="168" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/More/Boost1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/More/Boost1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="171" />
@@ -960,6 +1060,30 @@
           <properties />
           <option name="timeStamp" value="260" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_dp_9465.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Wine_2156.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -968,52 +1092,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13824">
-          <caret line="599" column="6" selection-start-line="599" selection-start-column="6" selection-end-line="599" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/LifBoat.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Baseball.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Scovile.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1392">
-          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/RamyeonFactory.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/DiskController.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/GymSuit.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/JoyStick.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/FP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/BigNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/LifeBoat.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/Scale.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/Camera.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2904">
-          <caret line="149" column="13" selection-start-line="149" selection-start-column="13" selection-end-line="149" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/collections/SortHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5520">
-          <caret line="259" column="33" selection-start-line="259" selection-start-column="33" selection-end-line="259" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/More/Programers/Greedy/Island.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/Lotto_6603.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/PhoneNumber_5052.java" />
@@ -1040,23 +1118,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/LabAnswer.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BulkHouse_2292.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/Lotto.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Boost1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1104">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/Boost2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1848">
-          <caret line="82" column="4" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7560">
@@ -1075,13 +1136,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/LabOther.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/DegreeOfKinship.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/DegreeOfKinshipOther.java" />
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67656">
-          <caret line="2896" column="18" selection-start-line="2896" selection-start-column="18" selection-end-line="2896" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/awt/Point.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -1115,6 +1169,154 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
           <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/five.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/More/FP.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/one.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/More/CSStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Test/July_2019/Boost2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_9465.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="19" column="31" selection-start-line="18" selection-start-column="4" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Sticker_dp_9465.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/SevenDwarf_2309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Zoo_1309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Wine_2156.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swea/WorkOut_3431.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/Stack/Parenthesis_9012.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="2899" column="23" selection-start-line="2899" selection-start-column="23" selection-end-line="2899" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="492" column="30" selection-start-line="492" selection-start-column="30" selection-end-line="492" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
