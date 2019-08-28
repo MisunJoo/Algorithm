@@ -8,6 +8,7 @@ import java.util.StringTokenizer;
 //팰린드롬이 아닌 값 0
 //팰린드롬인 값 1
 
+// 덜풀음 : 짝수 length의 경우 추가
 public class Palindrome_10942 {
 
     static int N;
