@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a23837-23b2-4a03-9742-0f02ca39a8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/BFS/AdjacentList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/BFS/DfsAndBfs_1260.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,45 +50,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="BinTree" value="1" />
-          <entry key="java" value="171" />
+          <entry key="java" value="172" />
           <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="171" />
+          <entry key="JAVA" value="172" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="23" />
-          <entry key="java" value="58834" />
+          <entry key="dummy" value="33" />
+          <entry key="java" value="61332" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="58834" />
-          <entry key="PLAIN_TEXT" value="23" />
+          <entry key="JAVA" value="61332" />
+          <entry key="PLAIN_TEXT" value="33" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/swea/WorkOut_3431.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/swea/Palindrome_1215.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -164,9 +152,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Kakao2019/OpenKatalk.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
+            <state relative-caret-position="572">
+              <caret line="36" selection-start-line="36" selection-end-line="36" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="e#691#699#0" expanded="true" />
                 <element signature="e#693#709#0" expanded="true" />
               </folding>
@@ -174,14 +163,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/AdjacentList.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Adjacency_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            <state relative-caret-position="531">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#326#346#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/DfsAndBfs_1260.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#336#345#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -222,8 +224,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/StackQueueStockPrice.java" />
-        <option value="$PROJECT_DIR$/src/main/java/More/Programers/MockExam.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/Carpet.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/Baseball.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/Programers/RamyeonFactory.java" />
@@ -273,6 +273,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Kakao2019/Muckbang.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Palindrome_10942.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/BFS/AdjacentList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/BFS/Adjacency_List.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/BFS/DfsAndBfs_1260.java" />
       </list>
     </option>
   </component>
@@ -300,9 +302,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="255" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="625" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
   </component>
@@ -421,7 +423,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567076226504" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567090745657" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -449,9 +451,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdjacentList">
-    <configuration name="AdjacentList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="baekjoon.BFS.AdjacentList" />
+  <component name="RunManager" selected="Application.DfsAndBfs_1260">
+    <configuration name="Adjacency_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.BFS.Adjacency_List" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="baekjoon.BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DfsAndBfs_1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.BFS.DfsAndBfs_1260" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
@@ -502,33 +517,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_1215" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="swea.Palindrome_1215" />
-      <module name="Algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swea.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Palindrome_1215" />
       <item itemvalue="Application.Palindrome_10942" />
       <item itemvalue="Application.Muckbang" />
       <item itemvalue="Application.OpenKatalk" />
-      <item itemvalue="Application.AdjacentList" />
+      <item itemvalue="Application.Adjacency_List" />
+      <item itemvalue="Application.DfsAndBfs_1260" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AdjacentList" />
+        <item itemvalue="Application.DfsAndBfs_1260" />
+        <item itemvalue="Application.Adjacency_List" />
         <item itemvalue="Application.OpenKatalk" />
         <item itemvalue="Application.Muckbang" />
         <item itemvalue="Application.Palindrome_10942" />
-        <item itemvalue="Application.Palindrome_1215" />
       </list>
     </recent_temporary>
   </component>
@@ -594,18 +596,18 @@
       <workItem from="1566222588225" duration="7512000" />
       <workItem from="1566375823749" duration="2172000" />
       <workItem from="1566650908541" duration="22416000" />
-      <workItem from="1566971214912" duration="6906000" />
+      <workItem from="1566971214912" duration="11045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="273632000" />
+    <option name="totallyTimeSpent" value="277771000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="255" y="33" width="1440" height="877" extended-state="0" />
+    <frame x="625" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -614,14 +616,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25227568" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38361508" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.023407022" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5357607" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.067620285" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.30949286" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1129,6 +1131,12 @@
           <properties />
           <option name="timeStamp" value="303" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Adjacency_List.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1137,7 +1145,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/LabBfs.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/Lab.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/EasyLab.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/More/baekjoon/BFS/BFS&amp;DFS.md" />
@@ -1357,17 +1364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Kakao2019/OpenKatalk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="e#691#699#0" expanded="true" />
-            <element signature="e#693#709#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Kakao2019/Muckbang.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1398,13 +1394,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/AdjacentList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Kakao2019/OpenKatalk.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        <state relative-caret-position="572">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#691#699#0" expanded="true" />
+            <element signature="e#693#709#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Adjacency_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#326#346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/DfsAndBfs_1260.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#336#345#0" expanded="true" />
           </folding>
         </state>
       </provider>
