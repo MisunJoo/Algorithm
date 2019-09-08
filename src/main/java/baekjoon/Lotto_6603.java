@@ -3,53 +3,40 @@ package More.baekjoon;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.Scanner;
 
 public class Lotto_6603 {
-    static int N;
-    static int[] arr;
-    static int[] result;
-
-    public static void main(String[] args) throws Exception{
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-        while(true){
-            String[] str = br.readLine().split(" ");
-            N = Integer.parseInt(str[0]);
-            arr = new int[N];
-            result = new int[N];
-
-            if(N == 0) break;
-
-            for (int i = 0; i < N; i++){
-                arr[i] = Integer.parseInt(str[i+1]);
+    static int K;
+    static int[] iArr;
+    static int count;
+    static StringBuffer sb=new StringBuffer();
+    static void dfsForRecursive(int v,String str) {
+        if(count==6) {
+            sb.append(str+"\n");
+        }else {
+            for(int i=v+1;i<K;i++) {
+                ++count;
+                dfsForRecursive(i, str+iArr[i]+" ");
             }
-            DFS(0,0);
-            System.out.println();
-
         }
-
+        --count;
     }
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        Scanner sc=new Scanner(System.in);
 
-    public static void DFS(int start, int depth){
-        if(depth == 6){
-            print();
-        }
-        for(int i=start; i<N; i++){
-            result[i] = 1;
-            DFS(i+1, depth+1);
-            result[i] = 0;
-        }
-
-    }
-
-    public static void print(){
-        for(int i=0; i<N; i++){
-            if(result[i] == 1){
-                System.out.println(arr[i] + " ");
+        while((K=sc.nextInt())!=0) {
+            iArr=new int[K];
+            for(int i=0;i<K;i++) {
+                iArr[i]=sc.nextInt();
             }
-            System.out.println();
+            for(int i=0;i<K;i++) {
+                count=1;
+                dfsForRecursive(i,iArr[i]+" ");
+            }
+
+            sb.append("\n");
         }
+        System.out.println(sb.toString());
     }
-
-
 }

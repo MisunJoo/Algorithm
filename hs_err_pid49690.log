@@ -94,7 +94,7 @@ V  [libjvm.dylib+0x537cb6]
 V  [libjvm.dylib+0x3cb54e]
 V  [libjvm.dylib+0x3cd937]
 V  [libjvm.dylib+0x2eac11]
-j  baekjoon.DynamicProgramming.Palindrome_10942.main([Ljava/lang/String;)V+202
+j  Fail.Palindrome_10942.main([Ljava/lang/String;)V+202
 v  ~StubRoutines::call_stub
 V  [libjvm.dylib+0x2efcba]
 V  [libjvm.dylib+0x326c61]
@@ -106,7 +106,7 @@ C  [libsystem_pthread.dylib+0x2425]  thread_start+0xd
 C  0x0000000000000000
 
 Java frames: (J=compiled Java code, j=interpreted, Vv=VM code)
-j  baekjoon.DynamicProgramming.Palindrome_10942.main([Ljava/lang/String;)V+202
+j  Fail.Palindrome_10942.main([Ljava/lang/String;)V+202
 v  ~StubRoutines::call_stub
 
 ---------------  P R O C E S S  ---------------
@@ -172,13 +172,13 @@ Deoptimization events (0 events):
 No events
 
 Classes redefined (7 events):
-Event: 80.780 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=1
-Event: 107.948 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=2
-Event: 279.833 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=3
-Event: 408.776 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=4
-Event: 611.275 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=5
-Event: 727.530 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=6
-Event: 772.093 Thread 0x00007fa09381a800 redefined class name=baekjoon.DynamicProgramming.Palindrome_10942, count=7
+Event: 80.780 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=1
+Event: 107.948 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=2
+Event: 279.833 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=3
+Event: 408.776 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=4
+Event: 611.275 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=5
+Event: 727.530 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=6
+Event: 772.093 Thread 0x00007fa09381a800 redefined class name=Fail.Palindrome_10942, count=7
 
 Internal exceptions (2 events):
 Event: 0.036 Thread 0x00007fa092804800 Exception <a 'java/lang/NoSuchMethodError': Method sun.misc.Unsafe.defineClass(Ljava/lang/String;[BII)Ljava/lang/Class; name or signature does not match> (0x0000000795587cb0) thrown at [/Users/java_re/workspace/8-2-build-macosx-x86_64/jdk8u181/11358/hotsp
@@ -432,7 +432,7 @@ Dynamic libraries:
 
 VM Arguments:
 jvm_args: -agentlib:jdwp=transport=dt_socket,address=127.0.0.1:50303,suspend=y,server=n -javaagent:/Users/misun/Library/Caches/IntelliJIdea2018.2/captureAgent/debugger-agent.jar=file:/private/var/folders/2k/x_89y_vx167gjlgnh8gmlxc40000gn/T/capture.props -Dfile.encoding=UTF-8 
-java_command: baekjoon.DynamicProgramming.Palindrome_10942
+java_command: Fail.Palindrome_10942
 java_class_path (initial): /Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/deploy.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/jfxrt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/javaws.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jfxswt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/plugin.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/lib/ant-javafx.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home
 Launcher Type: SUN_STANDARD
 

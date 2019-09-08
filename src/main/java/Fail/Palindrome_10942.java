@@ -1,4 +1,4 @@
-package baekjoon.DynamicProgramming;
+package Fail;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
