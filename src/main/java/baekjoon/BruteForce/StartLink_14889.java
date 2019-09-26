@@ -8,8 +8,16 @@ import java.util.StringTokenizer;
 * 드디어 백트래킹이 조금 이해가 갔다. (짝짝짝)
 * */
 
-public class StartLink_14889 {
+/* 중요코드!!!!! 조합뽑는 쌍을 효율적으로 작성한 코드
+* for (int i = 0; i < length; i++) {
+            for (int j = i + 1; j < length; j++) {
+                result += map[array[i]][array[j]];
+                result += map[array[j]][array[i]];
+            }
+        }
+* */
 
+public class StartLink_14889 {
     static int N;
     static int[][] map;
     static Stack<Integer> start = new Stack<Integer>();
@@ -52,16 +60,15 @@ public class StartLink_14889 {
             }
         }
     }
-
     // start그룹과 link그룹으로 나눔
     public static void divide() {
         int[] a = new int[N / 2];
         int[] b = new int[N / 2];
-
         for (int i = 0; i < N / 2; i++) {
             a[i] = start.get(i);
             visited[start.get(i)] = true;
         }
+
         int bi = 0;
         for (int i = 0; i < N; i++) {
             if (visited[i] == false) {
@@ -77,7 +84,6 @@ public class StartLink_14889 {
             answer = diff;
         }
     }
-
     //a, b 각각에서 2개씩 뽑아 그 각각 합을 구함
     public static int calc(int[] array) {
         int result = 0;
@@ -89,7 +95,6 @@ public class StartLink_14889 {
                 result += map[array[j]][array[i]];
             }
         }
-
         return result;
     }
 }
