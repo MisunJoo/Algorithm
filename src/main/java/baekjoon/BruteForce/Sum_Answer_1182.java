@@ -42,6 +42,5 @@ public class Sum_Answer_1182 {
 
         powerSet(arr, n, idx + 1, sum);
         powerSet(arr, n, idx + 1, sum + arr[idx]);
-
     }
 }
