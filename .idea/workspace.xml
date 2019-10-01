@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19a23837-23b2-4a03-9742-0f02ca39a8b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/StartLink_14889.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Two048_12100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/Samsung/Chicken_15686.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baekjoon/Graph/TwoDots_16929.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Sum_Answer_1182.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Sum_Answer_1182.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/BruteForce/Antatica_1062.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/BruteForce/Operator_14888.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/BruteForce/Sum_Answer_1182.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/BruteForce/Sum_Answer_1182.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/DynamicProgramming/Palindrome_10942.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/baekjoon/BruteForce/StartLink_14889.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/baekjoon/BruteForce/StartLink_14889.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,12 +46,12 @@
     <session id="326969270">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="60" />
+          <entry key="project.closed" value="61" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="14" />
           <entry key="project.open.time.10" value="9" />
           <entry key="project.open.time.11" value="8" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.16" value="1" />
@@ -65,19 +59,19 @@
           <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="11" />
-          <entry key="project.opened" value="61" />
+          <entry key="project.opened" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="BinTree" value="1" />
-          <entry key="java" value="239" />
+          <entry key="java" value="241" />
           <entry key="md" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="239" />
+          <entry key="JAVA" value="241" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -85,12 +79,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="48" />
-          <entry key="java" value="81367" />
+          <entry key="java" value="81982" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="81367" />
+          <entry key="JAVA" value="81982" />
           <entry key="PLAIN_TEXT" value="48" />
         </counts>
       </usages-collector>
@@ -98,18 +92,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Adjacency_List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Danji_2667.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,7 +113,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Kinship_2644.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="668">
+            <state relative-caret-position="744">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -140,14 +122,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/StartLink_14889.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            <state relative-caret-position="2232">
+              <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#322#331#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -156,7 +137,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Character.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="154440">
               <caret line="6509" column="22" selection-start-line="6509" selection-start-column="22" selection-end-line="6509" selection-end-column="22" />
               <folding>
                 <element signature="e#233921#233922#0" expanded="true" />
@@ -169,7 +150,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Two048_12100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="480">
               <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -181,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Sum_1182.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
+            <state relative-caret-position="840">
               <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -193,7 +174,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Sum_Answer_1182.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
+            <state relative-caret-position="984">
               <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -205,8 +186,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DFS/Backtracking.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="35" selection-start-line="15" selection-end-line="35" />
+            <state relative-caret-position="48">
+              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/Graph/TwoDots_16929.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="995">
+              <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -251,7 +244,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/DFS/DfsAndBfs_list.java" />
         <option value="$PROJECT_DIR$/src/main/java/More/baekjoon/DFS/Cabbage.java" />
         <option value="$PROJECT_DIR$/src/main/java/two.java" />
         <option value="$PROJECT_DIR$/src/main/java/July_2019/two.java" />
@@ -302,6 +294,7 @@
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/DynamicProgramming/Robot_2169.java" />
         <option value="$PROJECT_DIR$/src/main/java/swea/Bam3190.java" />
         <option value="$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/StartLink_14889.java" />
+        <option value="$PROJECT_DIR$/src/main/java/baekjoon/Graph/TwoDots_16929.java" />
       </list>
     </option>
   </component>
@@ -419,16 +412,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="BruteForce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="baekjoon" type="462c0819:PsiDirectoryNode" />
-              <item name="DFS" type="462c0819:PsiDirectoryNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -459,15 +443,15 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/misun/Documents/Java/Algorithm/src/main/java/baekjoon/Greedy/Lost_1541.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569501072419" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1569917712898" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -495,7 +479,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StartLink_14889">
+  <component name="RunManager" selected="Application.TwoDots_16929">
     <configuration name="Robot_2169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baekjoon.DynamicProgramming.Robot_2169" />
       <module name="Algorithm" />
@@ -522,12 +506,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="onew" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestSept_2019.zum.Naver.onew" />
+    <configuration name="TwoDots_16929" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baekjoon.Graph.TwoDots_16929" />
       <module name="Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestSept_2019.zum.Naver.*" />
+          <option name="PATTERN" value="baekjoon.Graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -562,19 +546,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.onew" />
       <item itemvalue="Application.two" />
       <item itemvalue="Application.three" />
       <item itemvalue="Application.Robot_2169" />
       <item itemvalue="Application.StartLink_14889" />
+      <item itemvalue="Application.TwoDots_16929" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoDots_16929" />
         <item itemvalue="Application.StartLink_14889" />
         <item itemvalue="Application.Robot_2169" />
         <item itemvalue="Application.three" />
         <item itemvalue="Application.two" />
-        <item itemvalue="Application.onew" />
       </list>
     </recent_temporary>
   </component>
@@ -648,17 +632,19 @@
       <workItem from="1568884928458" duration="594000" />
       <workItem from="1569131970891" duration="5039000" />
       <workItem from="1569316621968" duration="5198000" />
-      <workItem from="1569483156775" duration="11521000" />
+      <workItem from="1569483156775" duration="12900000" />
+      <workItem from="1569864747949" duration="1103000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="353195000" />
+    <option name="totallyTimeSpent" value="355677000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16165951" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16380544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -667,14 +653,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32769832" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16775033" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.07672302" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.27958387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32769832" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.084525354" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -804,7 +790,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/StartLink_14889.java</url>
-          <line>51</line>
+          <line>63</line>
           <properties class="baekjoon.BruteForce.StartLink_14889" method="divide">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1262,13 +1248,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/NightMove_7562.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/TestSept_2019/zum/one.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -1520,6 +1499,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/swea/Bam3190.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Danji_2667.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="888">
@@ -1534,21 +1514,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/swea/Bam3190.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Kinship_2644.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="80" column="50" selection-start-line="80" selection-start-column="50" selection-end-line="80" selection-end-column="50" />
+        <state relative-caret-position="744">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#340#357#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BFS/Kinship_2644.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/StartLink_14889.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="668">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="2232">
+          <caret line="96" column="9" selection-start-line="96" selection-start-column="9" selection-end-line="96" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1557,7 +1536,7 @@
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="154440">
           <caret line="6509" column="22" selection-start-line="6509" selection-start-column="22" selection-end-line="6509" selection-end-column="22" />
           <folding>
             <element signature="e#233921#233922#0" expanded="true" />
@@ -1566,9 +1545,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Two048_12100.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Sum_1182.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
+        <state relative-caret-position="840">
           <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1578,18 +1567,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Sum_Answer_1182.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
+        <state relative-caret-position="984">
           <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/Two048_12100.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1598,18 +1577,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/DFS/Backtracking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="35" selection-start-line="15" selection-end-line="35" />
+        <state relative-caret-position="48">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/BruteForce/StartLink_14889.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/baekjoon/Graph/TwoDots_16929.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        <state relative-caret-position="995">
+          <caret line="58" column="36" selection-start-line="58" selection-start-column="36" selection-end-line="58" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#322#331#0" expanded="true" />
           </folding>
         </state>
       </provider>
